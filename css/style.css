@@ -39,29 +39,42 @@ ul{list-style:none; margin: 0; padding: 0}
 .navbar #nav li a:hover{color: #3bafbe;}
 
 .slider{}
-.left_slider{margin-right:;}
-.right_video{background:#e4e4e4;}
-.single-video-right{}
+.left_slider{margin-right:20px;}
+.right_video{background:#e5e3e4;}
+.single_video_right img{padding: 10px 20px 10px 20px;}
+.single_video_right img{margin-right: 15px;}
+.single_video_right h3{font-size: 12px;font-family: arial;line-height: 18px;font-weight: bold; padding-left: 10px; margin-top: 5px; margin-bottom: 0}
+.single_video_right h3 a{color:#393837;}
+.single_video_right h3 a:hover{color:#d30000;}
 .maincontent{}
 .left_content{}
 .latest-category{}
-.latest-cate-title{}
-.latest-more-link{}
-.single-cate-post{}
-.read-more{}
-.latest-category{}
-.latest-cate-title{}
-.latest-more-link{}
-.single-cate-post{}
+.read-more {color:#cf0000; font-size: 12px; margin-bottom: 20px; display: inline-block;}
+.latest_from_cate{ width: 100%; position: relative; }
+.latest-cate-title{margin-left: 10px;border-bottom: 3px solid #cf0000}
+.latest-more-link{background:#cf0000 scroll 0 0;  position:absolute;right:0;top:0; color:#fff; padding: 5px 15px;}
+.single-cate-post {margin-right: 10px; width: 100%;font-size:12px;}
+.single-cate-post img{margin-bottom: 15px;}
+.single-cate-post h3{width: 100%; font-weight: bold; margin: 0; margin-bottom: 5px;}
 .gallery-left{}
-.gallery-title{}
+.gallery-title{margin-left: 10px;border-bottom: 3px solid #cf0000}
 .gallery-more-link{}
-.gallery-content{}
-.single-tech-cate{}
-.post-meta{}
+.gallery-content{padding:20px; width: 100%;position: relative;}
+.gallery-content img{width:100%; margin: 0 10px 10px 10px;}
+.tech-cate{}
+.single-tech-cate{width: 100%; position: relative;margin-left: 10px; }
+.single-tech-cate h3{width: 100%; font-weight: bold; margin: 0; margin-bottom: 5px;}
+.single-tech-cate p{width: 100%; font-size: 12px margin: 0; margin-bottom: 5px;}
+.single-tech-cate {border-bottom: 1px dotted #000; margin-bottom: 10px; padding-bottom: 5px;}
+.tech-title{margin-left: 10px;border-bottom: 3px solid #cf0000}
+.post-meta {font-size: 11px;}
+.post-meta a{color: #cf0000; font-size: 11px;}
 .middle_content{}
-.from-the-desk{}
-.single-from-the-desk{}
+.from-the-desk h2{margin-left: 10px;border-bottom: 3px solid #cf0000}
+.single-from-the-desk {margin-left: 10px;}
+.single-from-the-desk h3{width: 100%; font-weight: bold; margin: 0; margin-bottom: 5px;}
+.single-from-the-desk p{width: 100%; font-size: 12px margin: 0; margin-bottom: 5px;}
+.single-from-the-desk {border-bottom: 1px dotted #000; margin-bottom: 10px; padding-bottom: 5px;}
 .editorial-section{}
 .editorial-section-title{}
 .single-editorial-setion{}
